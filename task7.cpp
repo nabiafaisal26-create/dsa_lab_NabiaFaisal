@@ -13,7 +13,7 @@ vector<int> indices(const vector<int>& arr, int key) {
 }
 
 int main() {
-    int n, key;
+
 
     cout << "Size of the array: ";
     cin >> n;
